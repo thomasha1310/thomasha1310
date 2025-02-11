@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Thomas!
 
-<!--
-**thomasha1310/thomasha1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently building a jLox interpreter based on [Bob Nystrom's](https://github.com/munificent) [*Crafting Interpreters* guide](https://craftinginterpreters.com/).
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- C/C++
+- C# with Unity
+- Arduino
+- Python
+- PowerShell
+
+## Interests
+
+- Cybersecurity
+- Game Development
+- Data Science
