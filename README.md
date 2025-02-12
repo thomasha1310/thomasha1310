@@ -1,6 +1,6 @@
 # Hi there, I'm Thomas!
 
-I am currently building a jLox interpreter based on [Bob Nystrom's](https://github.com/munificent) [*Crafting Interpreters* guide](https://craftinginterpreters.com/).
+I am [currently building a jLox interpreter](https://github.com/thomasha1310/lox-interpreter) based on [Bob Nystrom's](https://github.com/munificent) [*Crafting Interpreters* guide](https://craftinginterpreters.com/).
 
 ## Experience
 
